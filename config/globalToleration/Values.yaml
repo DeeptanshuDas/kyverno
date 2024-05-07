@@ -1,0 +1,4 @@
+globalTolerations:
+  # Define your toleration rule here
+  - key: "CriticalAddonsOnly"
+    operator: "Exists"
